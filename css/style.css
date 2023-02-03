@@ -225,7 +225,7 @@ header .navbar ul li a:hover{
     color:#fff;
 }
 
-.education .box-container{
+.qualification .box-container{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -234,7 +234,7 @@ header .navbar ul li a:hover{
     padding-left: 3rem;
 }
 
-.education .box-container .box{
+.qualification .box-container .box{
     width:27rem;
     margin:4rem 1rem;
     padding-left: 4rem;
@@ -242,7 +242,7 @@ header .navbar ul li a:hover{
     position: relative;
 }
 
-.education .box-container .box span{
+.qualification .box-container .box span{
     font-size: 1.3rem;
     background:#222;
     color:#fff;
@@ -250,19 +250,19 @@ header .navbar ul li a:hover{
     padding:.5rem 2.5rem;
 }
 
-.education .box-container .box h3{
+.qualification .box-container .box h3{
     font-size: 2rem;
     color:#fff;
     padding-top: 1.5rem;
 }
 
-.education .box-container .box p{
+.qualification .box-container .box p{
     font-size: 1.4rem;
     color:#eee;
     padding: 1rem 0;
 }
 
-.education .box-container .box i{
+.qualification .box-container .box i{
     position: absolute;
     top:-1.5rem; left:-2.5rem;
     height:5rem;
