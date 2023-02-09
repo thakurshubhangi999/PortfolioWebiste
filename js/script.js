@@ -29,16 +29,4 @@ document.addEventListener("DOMContentLoaded", function() {
       top.style.display = "none";
     }
   });
-
-  // const links = document.querySelectorAll('a[href*="#"]');
-  // for (const link of links) {
-  //   link.addEventListener("click", function(event) {
-  //     event.preventDefault();
-  //     const target = document.querySelector(this.getAttribute("href"));
-  //     window.scrollTo({
-  //       top: target.offsetTop,
-  //       behavior: "smooth"
-  //     });
-  //   });
-  // }
 });
