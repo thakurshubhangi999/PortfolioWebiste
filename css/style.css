@@ -286,7 +286,7 @@ header .navbar ul li a:hover{
 .portfolio .box-container .box{
     height: 20rem;
     width:26rem;
-    border-radius: 1rem;
+    border-radius: 2rem;
     margin:2rem;
     overflow: hidden;
     cursor: pointer;
@@ -295,7 +295,7 @@ header .navbar ul li a:hover{
 .portfolio .box-container .box img{
     height:100%;
     width:100%;
-    object-fit: cover;
+    object-fit:fill;
 }
 
 .portfolio .box-container .box:hover img{
